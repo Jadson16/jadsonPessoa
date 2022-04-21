@@ -1,7 +1,7 @@
 ---
 title: "Jadson Pessoa"
 description: |
-  Seja bem-vindo ao meu blog pessoal para compartilhar temas de interesse e trabalhos na área de economia e ciência de dados
+  Seja bem-vindo ao meu blog pessoal para compartilhar temas de interesse e trabalhos na área de economia e ciência de dados.
 site: distill::distill_website
 ---
 
