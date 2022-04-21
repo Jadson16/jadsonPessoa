@@ -1,0 +1,21 @@
+---
+title: "Análise VAR"
+description: |
+  Texto para rodar um modelo VAR.
+author:
+  - name: Jadson Pessoa
+date: 2022-04-21
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Introduçao
+
+Contextualização do VAR. Suas vantagens e desvantagens.
+
